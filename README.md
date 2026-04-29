@@ -54,17 +54,14 @@ Simulación de un servidor de inventarios con latencia de red de 100ms. Se demue
 
 ##  Cómo ejecutar
 
-1. Clonar el repositorio:
-
-&#x20;  ```bash
-
-&#x20;  git clone \[https://github.com/TU\_USUARIO/TU\_REPO.git](https://github.com/TU\_USUARIO/TU\_REPO.git)
+##1. Clonar el repositorio:
 
 
+git clone \[https://github.com/TU\_USUARIO/TU\_REPO.git](https://github.com/TU\_USUARIO/TU\_REPO.git)
 
-2\. Instalar dependencias:
 
-&#x20;   ```bash
 
-&#x20;   pip install numpy pandas cupy dask matplotlib
+##2. Instalar dependencias:
+
+ pip install numpy pandas cupy dask matplotlib
 
